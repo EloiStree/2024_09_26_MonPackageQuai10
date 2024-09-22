@@ -10,15 +10,15 @@
   "licensesUrl": "https://en.wikipedia.org/wiki/Beerware",
   "dependencies": {
     "com.unity.inputsystem": "1.7.0",
-    "com.unity.probuilder": "5.2.3",
- },
+    "com.unity.probuilder": "5.2.3"
+  },
   "samples": [
-     {
-       "displayName": "Demo Scene",
-       "description": "Example d'utilisation de l'outil.",
-       "path": "Scene/Demo"
-     }
-   ],
+    {
+      "displayName": "Demo Scene",
+      "description": "Example d'utilisation de l'outil.",
+      "path": "Scene/Demo"
+    }
+  ],
   "author": {
     "name": "Eloi Stree",
     "email": "streeeloi@gmail.com",
