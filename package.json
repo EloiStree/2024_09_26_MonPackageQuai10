@@ -1,5 +1,5 @@
 {
-  "name": "be.elab.mypackquai10",
+  "name": "be.elab.mypackquai",
   "version": "0.0.1",
   "displayName": "Quai 10 Pack Eloi",
   "description": "This is my space in the Quai10 Nid Street AR project",
@@ -10,8 +10,7 @@
   "licensesUrl": "https://en.wikipedia.org/wiki/Beerware",
   "dependencies": {
     "com.unity.inputsystem": "1.7.0",
-    "com.unity.probuilder": "5.2.3",
-    "be.elab.charleroifort": "https://github.com/EloiStree/2024_09_25_Charleroi1666.git"
+    "com.unity.probuilder": "5.2.3"
   },
   "samples": [
     {
