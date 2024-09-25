@@ -10,7 +10,8 @@
   "licensesUrl": "https://en.wikipedia.org/wiki/Beerware",
   "dependencies": {
     "com.unity.inputsystem": "1.7.0",
-    "com.unity.probuilder": "5.2.3"
+    "com.unity.probuilder": "5.2.3",
+    "be.elab.charleroifort": "https://github.com/EloiStree/2024_09_25_Charleroi1666.git"
   },
   "samples": [
     {
